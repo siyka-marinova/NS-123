@@ -1,0 +1,28 @@
+{
+  "ProjectName": "HW_JS",
+  "ProjectGuid": "611e6d2f-b108-46d0-bc43-f6ea811cbd1b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.HWJS",
+  "DisplayName": "HW_JS",
+  "Author": "",
+  "Description": "HW_JS",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.2.3",
+  "Framework": "NativeScript"
+}
